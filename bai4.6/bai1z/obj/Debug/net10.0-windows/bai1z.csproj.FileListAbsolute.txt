@@ -1,0 +1,16 @@
+C:\Users\thinh\source\repos\bai1z\bai1z\bin\Debug\net10.0-windows\bai1z.exe
+C:\Users\thinh\source\repos\bai1z\bai1z\bin\Debug\net10.0-windows\bai1z.deps.json
+C:\Users\thinh\source\repos\bai1z\bai1z\bin\Debug\net10.0-windows\bai1z.runtimeconfig.json
+C:\Users\thinh\source\repos\bai1z\bai1z\bin\Debug\net10.0-windows\bai1z.dll
+C:\Users\thinh\source\repos\bai1z\bai1z\bin\Debug\net10.0-windows\bai1z.pdb
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.Form1.resources
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.csproj.GenerateResource.cache
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.AssemblyInfo.cs
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.dll
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\refint\bai1z.dll
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.pdb
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\bai1z.genruntimeconfig.cache
+C:\Users\thinh\source\repos\bai1z\bai1z\obj\Debug\net10.0-windows\ref\bai1z.dll
