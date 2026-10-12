@@ -12,8 +12,8 @@
 
 ## KẾT QUẢ THỰC HÀNH
 
-### 1.<img width="784" height="522" alt="GD" src="https://github.com/user-attachments/assets/b60c5a48-0095-42e6-800b-0d0ba3cb3a60" />
- Ảnh màn hình Giao diện chính
+### 1. Ảnh màn hình Giao diện chính
+<img width="784" height="522" alt="GD" src="https://github.com/user-attachments/assets/c838857c-3fc8-4ff0-864a-4bc39267caf3" />
 
 
 
